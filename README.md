@@ -51,6 +51,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chickisnak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1 align = "center" > My Hacktoberfest Achievement</h1>
 
-<h1 align = "center"> :seedling: My Hacktoberfest Achievement</h1>
 [![@chickisnak's Holopin board](https://holopin.me/chickisnak)](https://holopin.io/@chickisnak)
