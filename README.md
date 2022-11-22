@@ -51,4 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chickisnak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![@chickisnak's Holopin board](https://holopin.io/api/user/board?user=chickisnak)](https://holopin.io/@chickisnak)
+[![@chickisnak's Holopin board](https://holopin.me/chickisnak)](https://holopin.io/@chickisnak)
+[![@chickisnak's Holopin board](https://holopin.me/chickisnak)](https://holopin.io/@chickisnak)
+[![@chickisnak's Holopin board](https://holopin.me/chickisnak)](https://holopin.io/@chickisnak)
+[![@chickisnak's Holopin board](https://holopin.me/chickisnak)](https://holopin.io/@chickisnak)
